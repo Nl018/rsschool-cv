@@ -1,13 +1,13 @@
-*Nikolay Leonov
+# Nikolay Leonov
 
-**Contact Information:
+## Contact Information:
 
 **Phone number:** +375 29 2508173
 **Email:** nleonov018@gmail.com
 **Telegram:** @NikolaiLeon
 **Discord:** Nl018(@Nl018)
 
-**About myself:
+## About myself:
 
 My interest in programming came from video games. At first, it all started with small changes in the game files. Then reading thematic literature.
 
@@ -16,12 +16,12 @@ in addition, there are a huge number of free quality resources for self-educatio
 
 I believe that my ability to learn and acquire new skills will help me become an experienced Frontend Developer.
 
-**Skills and Proficiency:
+## Skills and Proficiency:
 
 * HTML5, CSS3
 * Basics JavaScript
 
-**Code Example
+## Code Example
 
 ```
 function multiply(a, b) {
