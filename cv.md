@@ -3,8 +3,11 @@
 ## Contact Information:
 
 **Phone number:** +375 29 2508173
+
 **Email:** nleonov018@gmail.com
+
 **Telegram:** @NikolaiLeon
+
 **Discord:** Nl018(@Nl018)
 
 ## About myself:
