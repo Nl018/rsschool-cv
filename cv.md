@@ -1,6 +1,6 @@
 # Nikolay Leonov
 
-## Contact Information:
+## My Contact Info:
 
 **Phone number:** +375 29 2508173
 
@@ -10,7 +10,9 @@
 
 **Discord:** Nl018(@Nl018)
 
-## About myself:
+**GitHub:** [NL018](https://github.com/Nl018)
+
+## About Me:
 
 My interest in programming came from video games. At first, it all started with small changes in the game files. Then reading thematic literature.
 
@@ -23,6 +25,7 @@ I believe that my ability to learn and acquire new skills will help me become an
 
 * HTML5, CSS3
 * Basics JavaScript
+* Git/GitHub
 
 ## Code Example
 
@@ -32,4 +35,12 @@ function multiply(a, b) {
 }
 ```
 
+## Languages
+
+* **Russian** - native speaker.
+* **English** - A1
+
+## Project
+
+* [CV](https://github.com/Nl018/rsschool-cv/blob/gh-pages/cv.md)
 
